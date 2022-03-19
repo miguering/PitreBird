@@ -1,0 +1,10 @@
+com/mygdx/game/MainMenuScreen.java
+ com.mygdx.game.MainMenuScreen
+com/mygdx/game/Pajaro.java
+ com.mygdx.game.Pajaro
+com/mygdx/game/GameScreen.java
+ com.mygdx.game.GameScreen
+com/mygdx/game/Tuberia.java
+ com.mygdx.game.Tuberia
+com/mygdx/game/FlappyGame.java
+ com.mygdx.game.FlappyGame

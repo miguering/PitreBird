@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/flappy-bird-miguelangelfer-alumn-main.iml" filepath="$PROJECT_DIR$/.idea/modules/flappy-bird-miguelangelfer-alumn-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/flappy-bird-miguelangelfer-alumn-main.android.iml" filepath="$PROJECT_DIR$/.idea/modules/android/flappy-bird-miguelangelfer-alumn-main.android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/flappy-bird-miguelangelfer-alumn-main.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/flappy-bird-miguelangelfer-alumn-main.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/flappy-bird-miguelangelfer-alumn-main.desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/flappy-bird-miguelangelfer-alumn-main.desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/html/flappy-bird-miguelangelfer-alumn-main.html.iml" filepath="$PROJECT_DIR$/.idea/modules/html/flappy-bird-miguelangelfer-alumn-main.html.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ios/flappy-bird-miguelangelfer-alumn-main.ios.iml" filepath="$PROJECT_DIR$/.idea/modules/ios/flappy-bird-miguelangelfer-alumn-main.ios.iml" />
+    </modules>
+  </component>
+</project>
